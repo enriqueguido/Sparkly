@@ -3508,8 +3508,7 @@ footer .row {
     line-height: 60px;
     text-align: center;
     background: black;
-    /*color: rgba(255, 255, 255, 0.5);*/
-    color: #1937ca
+    color: #1937ca;
     text-align: center;
     text-transform: uppercase;
     -webkit-transition: all 0.3s ease-in-out;
